@@ -16,7 +16,7 @@ Enhance guest experience through targeted strategies.
 
 Provide actionable recommendations based on data-driven insights.
 
-Key Sections of the Analysis
+# Key Sections of the Analysis
 
 Visualization and Insights
 
