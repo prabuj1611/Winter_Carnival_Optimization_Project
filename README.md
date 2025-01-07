@@ -18,30 +18,33 @@ Provide actionable recommendations based on data-driven insights.
 
 # Key Sections of the Analysis
 
-Visualization and Insights
+Visualization and Insights:
 
 Analyze vendor profitability and visitor preferences for the Angels’ Market.
 
 Provide recommendations to optimize vendor allocation and layout.
 
-Statistical Summary
+Statistical Summary:
 
 Analyze historical Disney box office data to identify trends and successful segments.
 
-Segmentation and Targeting
+Segmentation and Targeting:
 
 Segment regional households using clustering techniques to tailor marketing strategies.
 
-Conjoint Analysis and A/B Testing
+Conjoint Analysis and A/B Testing:
 
 Optimize the Arundelle Ball setup and determine the most effective marketing image.
-Forecasting
+
+Forecasting:
 
 Predict Disney’s FY 2025 Earnings Per Share (EPS) using time-series forecasting.
-Classification
+
+Classification:
 
 Predict visitor preferences for indoor or outdoor activities to refine marketing campaigns.
-Strategic Memo
+
+Strategic Memo:
 
 Draw lessons from the Hockey Canada case study to recommend revenue diversification and community engagement strategies.
 
